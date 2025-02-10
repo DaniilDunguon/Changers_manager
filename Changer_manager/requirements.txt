@@ -1,0 +1,7 @@
+bs4
+requests
+PyQt6
+lxml
+selenium
+undetected_chromedriver
+sqlite3
